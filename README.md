@@ -299,6 +299,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Status**: Backend core structure in progress | Frontend components planned | Analytics engine under development | Full documentation and deployment coming soon!
 
-滚到底部
-Commit message: Add comprehensive project documentation and roadmap
-点击 "Commit changes"
